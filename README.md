@@ -117,18 +117,33 @@ May, 2022
     - [Original Paper Link](https://arxiv.org/pdf/2201.02534.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2022/2022-01-research_trends.pdf)
 
 **2021**
+
 December, 2021
+- Benchmarking Detection Transfer Learning with Vision Transformers
+    - [Original Paper Link](https://arxiv.org/pdf/2111.11429.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
+- Object-Aware Cropping for Self-Supervised Learning(NeurIPS)
+    - [Original Paper Link](https://arxiv.org/pdf/2108.00049.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
+- MOBILEVIT: Light-weight, general-purpose, and mobile-friendly vision transformer (ICLR 2022)
+    - [Original Paper Link](https://arxiv.org/pdf/2110.02178.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
+- Florence: A New Foundation Model for Computer Vision
+    - [Original Paper Link](https://arxiv.org/pdf/2111.11432.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
 
 November, 2021
 
+
 October, 2021
+
 
 September, 2021
 
+
 August, 2021
+
 
 July, 2021
 
+
 June, 2021
+
 
 May, 2021
