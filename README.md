@@ -116,9 +116,9 @@ May, 2022
 - MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs
     - [Original Paper Link](https://arxiv.org/pdf/2201.02534.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2022/2022-01-research_trends.pdf)
 
-**2021**
+### 2021
 
-December, 2021
+**December, 2021**
 - Benchmarking Detection Transfer Learning with Vision Transformers
     - [Original Paper Link](https://arxiv.org/pdf/2111.11429.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
 - Object-Aware Cropping for Self-Supervised Learning(NeurIPS)
@@ -128,22 +128,102 @@ December, 2021
 - Florence: A New Foundation Model for Computer Vision
     - [Original Paper Link](https://arxiv.org/pdf/2111.11432.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-12-research_trends.pdf)
 
-November, 2021
+**November, 2021**
+- Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation
+    - [Original Paper Link](https://arxiv.org/pdf/2110.07858.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- NeRV: Neural Representations for Videos (NeurIPS 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2110.13903.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- Learning in High Dimension Always Amounts to Extrapolation
+    - [Original Paper Link](https://arxiv.org/pdf/2110.09485.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- TorchXRayVision: A library of chest X-ray datasets and models
+    - [Original Paper Link](https://arxiv.org/pdf/2111.00595.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- Palette: Image-to-Image Diffusion Models
+    - [Original Paper Link](https://arxiv.org/pdf/2111.05826.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- Masked Autoencoders Are Scalable Vision Learners
+    - [Original Paper Link](https://arxiv.org/pdf/2111.06377.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- Gradients are Not All You Need
+    - [Original Paper Link](https://arxiv.org/pdf/2111.05803.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- Data Augmentation Can Improve Robustness (NeurIPS 2021)
+    - [Original Paper Link](https://openreview.net/forum?id=kgVJBBThdSZ) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
+- A Survey on Vision Transformer (TPAMI 2022)
+    - [Original Paper Link](https://arxiv.org/pdf/2012.12556.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-11-research_trends.pdf)
 
+**October, 2021**
+- Multi-Task Self-Training for Learning General Representations (ICCV 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2108.11353.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers
+    - [Original Paper Link](https://arxiv.org/pdf/2109.03814.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- An End-to-End Transformer Model for 3D Object Detection
+    - [Original Paper Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- torch.manual seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision
+    - [Original Paper Link](https://arxiv.org/pdf/2109.08203.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- UNETR: Transformers for 3D Medical Image Segmentation (WACV 2022)
+    - [Original Paper Link](https://arxiv.org/pdf/2103.10504.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- Object DGCNN: 3D Object Detection using Dynamic Graphs (NeurIPS 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2110.06923.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- Noisy Labels Can Induce Good Representations (CoRR 2020)
+    - [Original Paper Link](https://openreview.net/forum?id=GPGlVWKOsVQ) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
+- Ego4D: Around the World in 3,000 Hours of Egocentric Video
+    - [Original Paper Link](https://arxiv.org/pdf/2110.07058.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-10-research_trends.pdf)
 
-October, 2021
+**September, 2021**
+- Vision Transformer with Progressive Sampling (ICCV 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2108.01684.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows
+    - [Original Paper Link](https://arxiv.org/pdf/2108.01684.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- Learning with Noisy Labels for Robust Point Cloud Segmentation
+    - [Original Paper Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Learning_With_Noisy_Labels_for_Robust_Point_Cloud_Segmentation_ICCV_2021_paper.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- EvilModel: Hiding Malware Inside of Neural Network Models (ISCC 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2107.08590.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- Mobile-Former: Bridging MobileNet and Transformer (CVPR 2022)
+    - [Original Paper Link](https://arxiv.org/pdf/2108.05895.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- Do Vision Transformers See Like Convolutional Neural Networks?
+    - [Original Paper Link](https://arxiv.org/pdf/2108.08810.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- Towards Robust Classification Model by Counterfactual and Invariant Data Generation (2021 CVPR)
+    - [Original Paper Link](https://arxiv.org/pdf/2106.01127.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
+- Eyes Tell All: Irregular Pupil Shapes Reveal GAN-generated Faces
+    - [Original Paper Link](https://www.albany.edu/faculty/mchang2/files/2022_05_ICASSP_FakeFace_Pupil.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-09-research_trends.pdf)
 
+**July, 2021**
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+    - [Original Paper Link](https://arxiv.org/pdf/2103.14030.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- Patch AutoAugment
+    - [Original Paper Link](https://arxiv.org/pdf/2103.11099.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers
+    - [Original Paper Link](https://arxiv.org/abs/2106.10270) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations (ICLR 2022 Spotlight)
+    - [Original Paper Link](https://openreview.net/forum?id=LtKcMgGOeLt) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- You only look at one sequence: rethinking transformer in vision through object detection (NeurIPS 2021 Camera Ready)
+    - [Original Paper Link](https://arxiv.org/pdf/2106.00666.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- EfficientNetV2: Smaller Models and Faster Training (ICML 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2104.00298.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- Focal Self-attention for Local-Global Interactions in Vision Transformers
+    - [Original Paper Link](https://paperswithcode.com/paper/focal-self-attention-for-local-global) / [Paper Review Link]
+- Attention Bottlenecks for Multimodal Fusion (NeurIPS 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2107.00135.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
+- On the Practicality of Deterministic Epistemic Uncertainty (ICML 2022)
+    - [Original Paper Link](https://arxiv.org/pdf/2107.00649.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-07-research_trends.pdf)
 
-September, 2021
+**June, 2021**
+- Deep Learning based Multi-modal Computing with Feature Disentanglement for MRI Image Synthesis
+    - [Original Paper Link](https://arxiv.org/pdf/2105.02835.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-06-research_trends.pdf)
+- Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet
+    - [Original Paper Link](https://arxiv.org/pdf/2105.02723.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-06-research_trends.pdf)
+- Vision Transformers for Dense Prediction
+    - [Original Paper Link](https://arxiv.org/pdf/2103.13413.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-06-research_trends.pdf)
+- Is Space-Time Attention All You Need for Video Understanding? (ICML 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2102.05095.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-06-research_trends.pdf)
+- LocalViT: Bringing Locality to Vision Transformers
+    - [Original Paper Link](https://arxiv.org/pdf/2104.05707.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-06-research_trends.pdf)
 
-
-August, 2021
-
-
-July, 2021
-
-
-June, 2021
-
-
-May, 2021
+**May, 2021**
+- VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text (NeurIPS 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2104.11178.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-05-research_trends.pdf)
+- Taming Transformers for High-Resolution Image Synthesis
+    - [Original Paper Link](https://arxiv.org/pdf/2012.09841.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-05-research_trends.pdf)
+- DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort
+    - [Original Paper Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DatasetGAN_Efficient_Labeled_Data_Factory_With_Minimal_Human_Effort_CVPR_2021_paper.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-05-research_trends.pdf)
+- Auto-Tuned Sim-to-Real Transfer (ICRA 2021)
+    - [Original Paper Link](https://arxiv.org/pdf/2104.07662.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/research_trends/2021/2021-05-research_trends.pdf)
+- Self-supervised Object detection from audio-visual correspondence
+    - [Original Paper Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Afouras_Self-Supervised_Object_Detection_From_Audio-Visual_Correspondence_CVPR_2022_paper.pdf) / [Paper Review Link]()
