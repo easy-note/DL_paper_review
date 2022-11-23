@@ -46,8 +46,13 @@ This repository consists of two parts as follow.
     - [Original Link](https://distill.pub/2021/understanding-gnns/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220413_Understanding%20Convolutions%20on%20Graphs.pdf)
 
 **Recommender System**
+- Recommender Systems basic
+    - [Original Link] / [Paper Review Link]()
 - Introduction to Sequential Recommender Systems
     - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/220724_Introduction%20to%20Sequential%20Recommender%20Systems.pdf)
+- Wide & Deep Learning for Recommender Systems
+    - [Original Link](https://arxiv.org/pdf/1606.07792.pdf) / [Paper Review Link]()
+
 
 **CS229 Study**
 - CS229 Lecture notes
