@@ -11,6 +11,22 @@ This repository consists of two parts as follow.
 
 ---
 ## Paper Reveiw
+**Recommender System**
+- Recommender Systems basic
+    - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Recommender%20Systems%20basic.pdf)
+- Introduction to Sequential Recommender Systems
+    - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/220724_Introduction%20to%20Sequential%20Recommender%20Systems.pdf)
+- Wide & Deep Learning for Recommender Systems
+    - [Original Link](https://arxiv.org/pdf/1606.07792.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Wide%26Deep%20Learning%20for%20Recommender%20Systems.pdf)
+    
+**GNN**
+- Graph Neural Network
+    - [Original Paper Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/210303_Graph%20Neural%20Network.pdf)
+- A Gentle Introduction to Graph Neural Networks
+    - [Original Link](https://distill.pub/2021/gnn-intro/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220119_A%20Gentle%20Introduction%20to%20Graph%20Neural%20Networks.pdf)
+- Understanding Convolutions on Graphs
+    - [Original Link](https://distill.pub/2021/understanding-gnns/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220413_Understanding%20Convolutions%20on%20Graphs.pdf)
+
 **Computer Vision**
 - Reletaional Knowledge Distillation (CVPR 2019)
     - [Original Paper Link](https://arxiv.org/pdf/1904.05068.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/210106_Relational%20Knowledge%20Distillation.pdf)
@@ -36,22 +52,6 @@ This repository consists of two parts as follow.
     - [Original Paper Link](https://arxiv.org/pdf/2204.03475.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/220601_CVPR%202022%20challenge.pdf)
 - Deep High-Resolution Representation Learning for Human Pose Estimation (CVPR 2019)
     - [Original Paper Link](https://arxiv.org/pdf/1902.09212.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/220629_Deep%20High-Resolution%20Representation%20Learning%20for%20Human%20Pose%20Estimation.pdf)
-
-**GNN**
-- Graph Neural Network
-    - [Original Paper Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/210303_Graph%20Neural%20Network.pdf)
-- A Gentle Introduction to Graph Neural Networks
-    - [Original Link](https://distill.pub/2021/gnn-intro/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220119_A%20Gentle%20Introduction%20to%20Graph%20Neural%20Networks.pdf)
-- Understanding Convolutions on Graphs
-    - [Original Link](https://distill.pub/2021/understanding-gnns/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220413_Understanding%20Convolutions%20on%20Graphs.pdf)
-
-**Recommender System**
-- Recommender Systems basic
-    - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Recommender%20Systems%20basic.pdf)
-- Introduction to Sequential Recommender Systems
-    - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/220724_Introduction%20to%20Sequential%20Recommender%20Systems.pdf)
-- Wide & Deep Learning for Recommender Systems
-    - [Original Link](https://arxiv.org/pdf/1606.07792.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Wide%26Deep%20Learning%20for%20Recommender%20Systems.pdf)
 
 
 **CS229 Study**
