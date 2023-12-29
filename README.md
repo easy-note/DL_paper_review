@@ -7,8 +7,11 @@ This repository consists of two parts as follow.
 
 ### Research Trends
 - [Study] Deep Learning research trends based on arxiv sanity (Monthly)
-- Introduct the latest research or papers that are gainig popularity based on [arvis sanity](https://arxiv-sanity-lite.com/).
+- Introduct the latest research or papers that are gainig popularity based on [arXis sanity](https://arxiv-sanity-lite.com/).
+- Currently, it is not possible to extract statistical data such as hot papers from arXiv sanity, so only operating Paper Review.
 
+### Note
+- Some paper reviews have been conducted as company business
 ---
 ## Paper Reveiw
 **Recommender System**
