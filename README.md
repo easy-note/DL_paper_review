@@ -21,6 +21,18 @@ This repository consists of two parts as follow.
     - [Original Link] / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/220724_Introduction%20to%20Sequential%20Recommender%20Systems.pdf)
 - Wide & Deep Learning for Recommender Systems
     - [Original Link](https://arxiv.org/pdf/1606.07792.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Wide%26Deep%20Learning%20for%20Recommender%20Systems.pdf)
+- AutoRec Autoencoders Meet Collaborative Filtering
+    - [Original Link](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) / [Paper Review Link]()
+- ColBert Efficient and Effective PAssage Search via Contextualized Late Interaction over BERT
+    - [Original Link](https://arxiv.org/pdf/2004.12832.pdf) / [Paper Review Link]()
+- ColBERTv2 Effective and Efficient Retrieval via Lightweight Late Interaction
+    - [Original Link](https://arxiv.org/pdf/2112.01488.pdf) / [Paper Review Link]()
+- Functional matrix factorizations for cold-start recommendation
+    - [Original Link](https://dl.acm.org/doi/10.1145/2009916.2009961) / [Paper Review Link]()
+- Measuring Why in Recommender Systems a Comprehensive Survey on the Evaluation of Explainable Recommendation
+    - [Original Link](https://arxiv.org/pdf/2202.06466.pdf) / [Paper Review Link]()
+- Self-Refine Iterative Refinement with Self-Feedback
+    - [Original Link](https://arxiv.org/pdf/2303.17651.pdf) / [Paper Review Link]()
     
 **GNN**
 - Graph Neural Network
@@ -30,7 +42,10 @@ This repository consists of two parts as follow.
 - Understanding Convolutions on Graphs
     - [Original Link](https://distill.pub/2021/understanding-gnns/) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/GNN/220413_Understanding%20Convolutions%20on%20Graphs.pdf)
 
+
 **Computer Vision**
+- The Forward-Forward Algorithm Some Preliminary Investigations
+    - [Original Link](https://arxiv.org/pdf/2212.13345.pdf) / [Paper Review Link]()
 - Reletaional Knowledge Distillation (CVPR 2019)
     - [Original Paper Link](https://arxiv.org/pdf/1904.05068.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/210106_Relational%20Knowledge%20Distillation.pdf)
 - Adversarial Examples Are Not Bugs, They Are Features (2019)
