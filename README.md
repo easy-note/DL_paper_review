@@ -22,17 +22,17 @@ This repository consists of two parts as follow.
 - Wide & Deep Learning for Recommender Systems
     - [Original Link](https://arxiv.org/pdf/1606.07792.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Wide%26Deep%20Learning%20for%20Recommender%20Systems.pdf)
 - AutoRec Autoencoders Meet Collaborative Filtering
-    - [Original Link](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) / [Paper Review Link]()
+    - [Original Link](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/AutoRec_%20Autoencoders%20Meet%20Collaborative%20Filtering.pdf)
 - ColBert Efficient and Effective PAssage Search via Contextualized Late Interaction over BERT
-    - [Original Link](https://arxiv.org/pdf/2004.12832.pdf) / [Paper Review Link]()
+    - [Original Link](https://arxiv.org/pdf/2004.12832.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/ColBert_%20Efficient%20and%20Effective%20PAssage%20Search%20via%20Contextualized%20Late%20Interaction%20over%20BERT.pdf)
 - ColBERTv2 Effective and Efficient Retrieval via Lightweight Late Interaction
-    - [Original Link](https://arxiv.org/pdf/2112.01488.pdf) / [Paper Review Link]()
+    - [Original Link](https://arxiv.org/pdf/2112.01488.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/ColBERTv2_%20Effective%20and%20Efficient%20Retrieval%20%20via%20Lightweight%20Late%20Interaction.pdf)
 - Functional matrix factorizations for cold-start recommendation
-    - [Original Link](https://dl.acm.org/doi/10.1145/2009916.2009961) / [Paper Review Link]()
+    - [Original Link](https://dl.acm.org/doi/10.1145/2009916.2009961) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Functional%20matrix%20factorizations%20%20for%20cold-start%20recommendation.pdf)
 - Measuring Why in Recommender Systems a Comprehensive Survey on the Evaluation of Explainable Recommendation
-    - [Original Link](https://arxiv.org/pdf/2202.06466.pdf) / [Paper Review Link]()
+    - [Original Link](https://arxiv.org/pdf/2202.06466.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Measuring%20_Why_%20in%20Recommender%20Systems_%20%20a%20Comprehensive%20Survey%20on%20the%20Evaluation%20of%20Explainable%20Recommendation.pdf)
 - Self-Refine Iterative Refinement with Self-Feedback
-    - [Original Link](https://arxiv.org/pdf/2303.17651.pdf) / [Paper Review Link]()
+    - [Original Link](https://arxiv.org/pdf/2303.17651.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/recommend_system/Self-Refine_%20Iterative%20Refinement%20with%20Self-Feedback.pdf)
     
 **GNN**
 - Graph Neural Network
@@ -45,7 +45,7 @@ This repository consists of two parts as follow.
 
 **Computer Vision**
 - The Forward-Forward Algorithm Some Preliminary Investigations
-    - [Original Link](https://arxiv.org/pdf/2212.13345.pdf) / [Paper Review Link]()
+    - [Original Link](https://arxiv.org/pdf/2212.13345.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/The%20Forward-Forward%20Algorithm_%20Some%20Preliminary%20Investigations.pdf)
 - Reletaional Knowledge Distillation (CVPR 2019)
     - [Original Paper Link](https://arxiv.org/pdf/1904.05068.pdf) / [Paper Review Link](https://github.com/easy-note/deep_learning_paper_review/blob/main/paper_review/computer_vision/210106_Relational%20Knowledge%20Distillation.pdf)
 - Adversarial Examples Are Not Bugs, They Are Features (2019)
